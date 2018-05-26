@@ -10,6 +10,8 @@ namespace SoftwareEngineerHandBook
     {
         static void Main(string[] args)
         {
+            //1st example: Binary Trees
+            BinaryTrees b = new BinaryTrees();
         }
     }
 }
