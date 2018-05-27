@@ -8,9 +8,9 @@ namespace SoftwareEngineerHandBook
 {
     public class BinaryTrees
     {
-        List<int> test = new List<int> { 1, 4, 5, 6, 2, 56, 55, 90 };
+        
 
-        public BinaryTrees()
+        public BinaryTrees(List<int> test)
         {
             Console.WriteLine("Binary Tree Example");
             Node d = new Node(7);
@@ -19,7 +19,7 @@ namespace SoftwareEngineerHandBook
                 d.insert(test[i]);
             }
             d.printInOrder();
-            Console.ReadLine();
+           
         }
         
 
