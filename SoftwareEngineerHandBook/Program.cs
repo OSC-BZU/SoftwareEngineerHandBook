@@ -1,4 +1,5 @@
-﻿using System;
+﻿using SoftwareEngineerHandBookStack;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -23,7 +24,7 @@ namespace SoftwareEngineerHandBook
             Queues c = new Queues(test);
 
             //4th Example: Stacks
-
+            Stacks d = new Stacks(test);
             //Terminate
             Console.ReadLine();
         }
