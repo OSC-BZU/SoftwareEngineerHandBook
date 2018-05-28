@@ -25,6 +25,10 @@ namespace SoftwareEngineerHandBook
 
             //4th Example: Stacks
             Stacks d = new Stacks(test);
+
+            //5th :1st Question and its answer by  Quick Sort
+            QuestionAnswer q1 = new QuestionAnswer();
+
             //Terminate
             Console.ReadLine();
         }
