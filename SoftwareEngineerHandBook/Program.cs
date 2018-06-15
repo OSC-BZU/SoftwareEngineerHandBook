@@ -31,6 +31,9 @@ namespace SoftwareEngineerHandBook
 
             ParanthesisQuestion q2 = new ParanthesisQuestion();
             //Terminate
+
+            MagicString mS = new MagicString(3);
+
             Console.WriteLine("Press enter to terminate");
             Console.ReadLine();
 

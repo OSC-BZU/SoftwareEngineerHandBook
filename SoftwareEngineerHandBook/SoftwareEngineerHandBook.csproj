@@ -58,6 +58,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="BinaryTrees.cs" />
+    <Compile Include="MagicString.cs" />
     <Compile Include="ParanthesisQuestion.cs" />
     <Compile Include="LinkedLists.cs" />
     <Compile Include="Program.cs" />
